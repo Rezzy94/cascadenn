@@ -1,5 +1,5 @@
 # cascadenn
-Cascade Neural Network
+Cascade Neural Network with Genetic Algorithm
 Designed by Rezzy Eko Caraka and Hasbi Yasin
 
 Reference:
